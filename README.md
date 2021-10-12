@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me anthony.lucchese@outlook.com
 
-- 🌐 Languages I am proficient at: Python, Java, (NPM) Javascript, C
+- 🌐 Languages I am proficient at: Python, Java, Javascript, C
 
 <!---
 Lucchese-Anthony/Lucchese-Anthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
