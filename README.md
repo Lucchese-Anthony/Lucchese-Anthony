@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony Lucchese (@Lucchese-Anthony)
 - 👀 I’m interested in Sports, Computer Programming, Hardware, and Security.
 - 🌱 I’m currently learning Assembly and C++
-- 💞️ I’m looking to collaborate on Anything!
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me anthony.lucchese@outlook.com
 
 - 🌐 Languages I am proficient at: Python, Java, Javascript, C
